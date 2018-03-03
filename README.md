@@ -2,7 +2,7 @@
 
 ## Feb. 25 - Mar. 2, 2018
 I attended Gordon Research Conferences (GRC) Batteries and presented my Poster. The conference is in Ventura, California. I found an afternoon and went to beach, which is amazing.  
-![image](http://github.com/Laisuo/News/raw/master/image/VenturaGRC.jpg)
+![image](http://github.com/Laisuo/News/raw/master/image/VenturaGRC.jpg){: width="300px" height="500px"}
 
 ## Feb. 23, 2018  
 I won the Best Poster Prize during the AVS Western Pennsylvania Chapter Poster presentation in Pittsburgh, PA. The prize is 200$ check!   
