@@ -1,3 +1,34 @@
+
+Feb. 23, 2018  
+I won the Best Poster Prize during the AVS Western Pennsylvania Chapter Poster presentation in Pittsburgh, PA. The prize is 200$ check!   
+
+
+----------
+
+Jan. 15, 2018  
+My face is on CMU Newspaper. I am famous now. :)  
+![image](http://github.com/Laisuo/News/raw/master/image/EnergyWeek2017.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Laisuo/News/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
