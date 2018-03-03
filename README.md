@@ -6,7 +6,7 @@ I won the Best Poster Prize during the AVS Western Pennsylvania Chapter Poster p
 ----------
 
 Jan. 15, 2018  
-My face is on CMU Newspaper. I am famous now. :)  
+My face is on CMU Newspaper. I am famous now. :smile:  
 
 ![image](http://github.com/Laisuo/News/raw/master/image/EnergyWeek2017.jpg){: width="500px" height="300px"}
 
