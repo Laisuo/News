@@ -7,7 +7,7 @@ I got restricted I during [ITA test](https://www.cmu.edu/icc/language-certificat
 ## Apr. 1, 2018
 I attended Easter for the first time, during which I listened many Christian music and songs. I like them. 
   
-![image](http://github.com/Laisuo/News/raw/master/image/Easter20180401.jpg){: width="400px" height="300px"}
+![image](http://github.com/Laisuo/News/raw/master/image/Easter20180401.jpg){: width="434px" height="300px"}
 
 ## Feb. 25 - Mar. 2, 2018
 I attended Gordon Research Conferences (GRC) Batteries and presented my Poster. The conference was in Ventura, California. I found an afternoon and went to beach, which was amazing.  
